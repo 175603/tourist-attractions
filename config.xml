@@ -4,7 +4,7 @@
 		id          = "tourist-attractions"
         version     = "1.0.0" >
 
-    <name>tourist-attractionsM</name>
+    <name>Tourist Attractions</name>
     <description>tourist-attractions</description>
     <author href="http://mypersonalwebsite.com" email="johnbrown@gmail.com">
 		Alex Omely
